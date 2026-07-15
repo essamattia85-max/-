@@ -1,0 +1,6 @@
+{
+  "name": "High Lights Umrah Studio",
+  "description": "ستوديو احترافي تفاعلي لتصميم وعرض فيديوهات وإعلانات العمرة لشركة هاي لايتس ترافيل بخلفيات متحركة ومؤثرات صوتية وبصرية ممتازة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
